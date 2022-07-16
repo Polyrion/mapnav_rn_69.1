@@ -52,7 +52,7 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>MBXAccessToken</key>
-	<string>pk.eyJ1IjoieGFuZGVyMTgiLCJhIjoiY2w0dnlha2ZkMWE2czNtbWxhdTh2OTd6cSJ9.Y-JWZFZy8z-_tJPTOvM29g</string>
+	<string>pk.eyJ1IjoieGFuZGVyMTgiLCJhIjoiY2w1bzB6enl5MDV1bzNqbzNzYjd5OTAxeCJ9.R-hnKgE6WAz8xRRFcfKh4w</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>audio</string>
